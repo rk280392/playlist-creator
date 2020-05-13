@@ -1,3 +1,5 @@
+https://learningdevops.com/creating-playlist-in-ubuntu/
+
 Goal :
 So the goal was to create a playlist of my learning videos, so I won’t have to open the files manually in VLC.
 
