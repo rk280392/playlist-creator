@@ -1,3 +1,4 @@
+rename "s/ *//g" *
 for name in ./*/; do 
     echo "File -> $name"
    cd $name && rename "s/ *//g" * 
